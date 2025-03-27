@@ -1,0 +1,21 @@
+INSTRUCTIONS
+
+This assignment requres the completion of a Jupyter Notebook. A notebook is a python file that interleaves python code cells and text, allowing one to edit and execute code cells in arbitrary order as needed.
+
+To run a Jupyter notebook you have two standard options.
+
+1. Install Jupyter Lab (https://jupyter.org/). Jupyter Lab runs locally and loads an editor interface in your browser. 
+
+To install Jupyter Lab: Run the following form the command line:
+
+> pip install jupyterlab
+
+To run:
+
+> jupyter lab
+
+Use the file system interface to navigate to your .ipynb file.
+
+2. Upload the .ipynb file to Google Colaboratory (https://colab.research.google.com/). Google Colab runs the notebooks on unused cloud computing infrastructure and provides access to GPUs. This project does not require GPUs, but Google Colab is still a good environment for editing and running Jupyter Notebooks. Google Colab has free tiers, but does require a Google account.
+
+3. Follow the instructions in the notebook. Submit your completed notebook to Gradescope. Be sure to select the option in the notebook settings to save all cell outputs. We will grade by looking at the cell outputs to see how many games you complete. 
